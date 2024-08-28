@@ -1,4 +1,4 @@
-# ![Talento Tech](https://talentotech.gov.co/849/articles-334606_foto_marquesina.jpg)  
+# ![Talento Tech](./images/talento-tech.jpg)  
 # Proyecto de Aprendizaje de Inteligencia Artificial
 
 Este proyecto está diseñado para servir como una plataforma de aprendizaje y experimentación en inteligencia artificial, con el respaldo y apoyo de **Talento Tech**.
